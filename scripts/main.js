@@ -84,3 +84,6 @@ UnitTypes.alpha.weapons.get(0).y = 3.25;
 
 UnitTypes.scepter.weapons.get(0).x = 13.75;
 UnitTypes.scepter.weapons.get(0).y = -0.5;
+
+UnitTypes.reign.weapons.get(0).x = 14;
+UnitTypes.reign.weapons.get(0).y = -0.5;
