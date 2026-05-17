@@ -48,6 +48,7 @@ const targetWeapons = [
     "heal-shotgun-weapon",
     "beam-weapon",
     "beta-weapon",
+    "reign-weapon",
     "small-basic-weapon",
     "small-mount-weapon"
 ];
