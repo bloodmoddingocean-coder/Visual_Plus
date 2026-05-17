@@ -1,0 +1,13 @@
+name: vplus
+displayName: "Visual+"
+description: "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.
+
+Eng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.
+
+Thx to retodera, Sputnuc and mellory for the help with the scripts."
+
+author: Bloody-Ocean
+minGameVersion: 146
+version: 1.60.2
+subtitle: "build 60, release."
+hidden: true

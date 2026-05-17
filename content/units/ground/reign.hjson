@@ -1,0 +1,61 @@
+speed: 0.4
+hitSize: 30
+rotateSpeed: 1.65
+health: 24000
+armor: 18
+mechStepParticles: true
+stepShake: 0.75
+drownTimeMultiplier: 1.6
+mechfrontSway: 1.9
+mechSideSway: 0.6
+            weapons: [
+            {
+            name: reign-weapon
+                layerOffset: -0.01
+                y: 1.5
+                x: 16.75
+                rotate: true
+                rotationLimit: 25
+                shootY: 13
+                shootX: -1.5
+                reload: 9
+                recoil: 5
+                shake: 2
+                ejectEffect: casing4
+                shootSound: bang
+
+                bullet: {
+                type: BasicBulletType
+                    pierce: true
+                    pierceCap: 10
+                    speed: 13
+                    damage: 80
+                    width: 14
+                    height: 33
+                    lifetime: 15
+                    shootEffect: shootBig
+                    fragVelocityMin: 0.4
+                    hitEffect: blastExplosion
+                    splashDamage: 18
+                    splashDamageRadius: 13
+                    fragBullets: 3
+                    fragLifeMin: 0
+                    fragRandomSpread: 30
+
+                    fragBullet: {
+                    type: BasicBulletType
+                    speed: 9
+                    damage: 20
+                        width: 10
+                        height: 10
+                        pierce: true
+                        pierceBuilding: true
+                        pierceCap: 3
+                        lifetime: 20
+                        hitEffect: flakExplosion
+                        splashDamage: 15
+                        splashDamageRadius: 1
+                         }
+                         }
+                         }
+                         ]
