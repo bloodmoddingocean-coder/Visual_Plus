@@ -22,7 +22,7 @@ mechSideSway: 0.6
                 recoil: 5
                 shake: 2
                 ejectEffect: casing4
-                shootSound: bang
+                shootSound: shootReign
 
                 bullet: {
                 type: BasicBulletType
